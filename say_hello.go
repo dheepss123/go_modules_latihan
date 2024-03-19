@@ -1,5 +1,5 @@
 package gomoduleslatihan
 
 func SayHello()string{
-	return "Hallo"
+	return "Hallo world"
 }
